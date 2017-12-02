@@ -1,0 +1,28 @@
+branch-defaults:
+  universal:
+    environment: bookShopUniversal
+    group_suffix: null
+environment-defaults:
+  bookShop:
+    branch: universal
+    repository: bookShop_UNIVERSAL
+  bookShopU:
+    branch: null
+    repository: null
+  bookShopUniversal:
+    branch: universal
+    repository: bookShop_UNIVERSAL
+global:
+  application_name: bookShop_UNIVERSAL
+  branch: universal
+  default_ec2_keyname: null
+  default_platform: Node.js
+  default_region: eu-west-1
+  include_git_submodules: true
+  instance_profile: null
+  platform_name: null
+  platform_version: null
+  profile: eb-cli
+  repository: bookShop_UNIVERSAL
+  sc: git
+  workspace_type: Application
