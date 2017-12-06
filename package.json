@@ -9,8 +9,8 @@
     "deep-freeze": "0.0.1",
     "expect": "^21.2.1",
     "nodemon": "^1.12.1",
-	"redux-logger": "^2.8.1",
-    "webpack": "^2.2.1"
+    "redux-logger": "^2.8.1",
+    "webpack": "^2.7.0"
   },
   "dependencies": {
     "axios": "^0.17.0",
