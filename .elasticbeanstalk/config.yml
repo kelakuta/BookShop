@@ -1,6 +1,6 @@
 branch-defaults:
   transfer:
-    environment: null
+    environment: own-mess
     group_suffix: null
 global:
   application_name: BookShop
